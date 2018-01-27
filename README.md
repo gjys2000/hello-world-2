@@ -1,3 +1,3 @@
 # hello-world-2
 
-I recently found out that the Chinese Government has finally made GitHub accessible on the internet!
+I'm able to access GitHub from the PRC it seems, as it's no longer a site hindered by the notorious great firewall.
